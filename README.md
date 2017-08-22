@@ -1,6 +1,6 @@
 # nugget
 
-This project contains my new project. indeed.
+This project contains my new project. 
 
 ## Development
 
