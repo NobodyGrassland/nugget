@@ -2,7 +2,7 @@ language: java
 notifications:
   webhooks:
     urls:
-    - 'https://webhook.atomist.com/atomist/travis'
+    - 'a local one'
     on_cancel: always
     on_error: always
     on_start: always
