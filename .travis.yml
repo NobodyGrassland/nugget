@@ -1,10 +1,1 @@
 language: java
-notifications:
-  webhooks:
-    urls:
-    - 'a local one'
-    on_cancel: always
-    on_error: always
-    on_start: always
-    on_failure: always
-    on_success: always
