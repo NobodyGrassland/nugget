@@ -1,1 +1,10 @@
 language: java
+notifications:
+  webhooks:
+    urls:
+    - 'https://webhook.atomist.com/travis/teams/T6RSY44Q4'
+    on_cancel: always
+    on_error: always
+    on_start: always
+    on_failure: always
+    on_success: always
